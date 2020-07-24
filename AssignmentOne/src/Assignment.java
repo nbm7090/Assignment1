@@ -16,3 +16,4 @@ public class Assignment {
 
 	}
 }
+//using third variable is to be completed
